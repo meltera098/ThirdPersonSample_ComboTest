@@ -4,7 +4,7 @@
 https://lunanelis.hatenablog.com/entry/2022/06/13/041602
 
 こちらのページに公開されているコンボ実装方法を自分で作ってみたところ、TickでTryActivateAbilitiesbyTagを呼ぶと
-Attack.State.Combo2が残ってしまう現象が起きたため、ネリス様に確認いただけるよう公開しました。
+一部のタグが残ってしまう現象が起きたため、ネリス様に確認いただけるよう公開しました。
 
 UE5のバージョンは5.1.0です。
 アニメーションモンタージュやGameplayAbilityなどのアセットは、Content\Mannequinフォルダ内に入っています。
