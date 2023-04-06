@@ -8,3 +8,4 @@ https://lunanelis.hatenablog.com/entry/2022/06/13/041602
 
 UE5のバージョンは5.1.0です。
 アニメーションモンタージュやGameplayAbilityなどのアセットは、Content\Mannequinフォルダ内に入っています。
+また、レベルブループリントから、プレイ時にshowdebug abilitysystemでデバッグ表示させています。
